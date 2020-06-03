@@ -1,0 +1,24 @@
+{
+  "name": "node-fs",
+  "version": "1.0.0",
+  "description": "Exercício de FileSystem e Json no node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicius-ledesma/node-fs.git"
+  },
+  "keywords": [
+    "node.js",
+    "FileSystem",
+    "Json"
+  ],
+  "author": "Vinicius Ledesma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicius-ledesma/node-fs/issues"
+  },
+  "homepage": "https://github.com/vinicius-ledesma/node-fs#readme"
+}
